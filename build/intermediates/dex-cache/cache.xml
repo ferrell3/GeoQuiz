@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/users/ugrad/f/ferrell3/AndroidStudioProjects/GeoQuiz/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/users/ugrad/f/ferrell3/AndroidStudioProjects/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.3.1_8dd889a4cf2c39daed1b93c97b7664c0d8799d9e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/users/ugrad/f/ferrell3/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/users/ugrad/f/ferrell3/AndroidStudioProjects/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_c679119297f59b2e1603eccd62b3300abda09091/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/users/ugrad/f/ferrell3/AndroidStudioProjects/GeoQuiz/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/users/ugrad/f/ferrell3/AndroidStudioProjects/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.3.1_a53ea0ec42490e04b282ebac633f756459eaadef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/users/ugrad/f/ferrell3/AndroidStudioProjects/GeoQuiz/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/users/ugrad/f/ferrell3/AndroidStudioProjects/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.3.1_46968bf53fb10d4ff1222b1a7cd03e49fd20b243/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/users/ugrad/f/ferrell3/AndroidStudioProjects/GeoQuiz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/users/ugrad/f/ferrell3/AndroidStudioProjects/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.3.1_c57c79e532e9d2ac2d6a48bb37e0bc59d693ae4e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/users/ugrad/f/ferrell3/AndroidStudioProjects/GeoQuiz/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/users/ugrad/f/ferrell3/AndroidStudioProjects/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.3.1_ecff4ba58b7ed0902e872487fe4b83e4e3ed074c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/users/ugrad/f/ferrell3/AndroidStudioProjects/GeoQuiz/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/users/ugrad/f/ferrell3/AndroidStudioProjects/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.3.1_827eebea696c0c695a27ee9e52c55a3e1aa75ffe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/users/ugrad/f/ferrell3/AndroidStudioProjects/GeoQuiz/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="423d3d05934e16da87772feba4c6bcdea752171c">
+        <dex dex="/users/ugrad/f/ferrell3/AndroidStudioProjects/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d37fb9b6cf386f44c86b62cdf1398fc15c43b23d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/users/ugrad/f/ferrell3/AndroidStudioProjects/GeoQuiz/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="396bbb3a8d6045b21c030ae9ecf4dd4d44d818db">
+        <dex dex="/users/ugrad/f/ferrell3/AndroidStudioProjects/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b597c002f7383cd0d583eb74f2fad042e1b8cd0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/users/ugrad/f/ferrell3/AndroidStudioProjects/GeoQuiz/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/users/ugrad/f/ferrell3/AndroidStudioProjects/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.3.1_315dc8dbaeab63fdc43bbba352f6bbb134ce4bc8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/users/ugrad/f/ferrell3/AndroidStudioProjects/GeoQuiz/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/users/ugrad/f/ferrell3/AndroidStudioProjects/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.3.1_2b8f221cc342c818d931042d69bd8a5043834ada/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/users/ugrad/f/ferrell3/AndroidStudioProjects/GeoQuiz/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/users/ugrad/f/ferrell3/AndroidStudioProjects/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.3.1_08674df56bff77f408e9df00e8f6aa29e94e8fd2/classes.dex" />
+    </item>
+
+</items>
